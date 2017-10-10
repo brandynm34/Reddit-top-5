@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+p {
+  padding-bottom: 50px;
+  font-size: 110%;
+}
+
+a:link, a:visited {
+  background-color: pink;
+  color: white;
+  padding: 14px 20px;
+  text-align: center;
+  display: table;
+  margin-bottom: 40px;
+}
+
+
+a:hover, a:active {
+    background-color: red;
+}
